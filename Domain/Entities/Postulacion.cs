@@ -12,7 +12,7 @@ namespace Domain.Entities
         public Guid VacanteId { get; set; }
         public Vacante Vacante { get; set; }
         public Guid UsuarioId { get; set; }
-        public Usuario Usuario { get; set; }
+        //public Usuario Usuario { get; set; }
         public string Estatus { get; set; } // Pendiente, Aceptada, Rechazada
         public DateTime FechaPostulacion { get; set; }
     }

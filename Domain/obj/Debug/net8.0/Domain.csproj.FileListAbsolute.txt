@@ -1,0 +1,12 @@
+C:\xampp\htdocs\HonestoHire\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\xampp\htdocs\HonestoHire\Domain\bin\Debug\net8.0\Domain.dll
+C:\xampp\htdocs\HonestoHire\Domain\bin\Debug\net8.0\Domain.pdb
+C:\xampp\htdocs\HonestoHire\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\HonestoHire\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\xampp\htdocs\HonestoHire\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\xampp\htdocs\HonestoHire\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\HonestoHire\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\xampp\htdocs\HonestoHire\Domain\obj\Debug\net8.0\Domain.dll
+C:\xampp\htdocs\HonestoHire\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\xampp\htdocs\HonestoHire\Domain\obj\Debug\net8.0\Domain.pdb
+C:\xampp\htdocs\HonestoHire\Domain\obj\Debug\net8.0\ref\Domain.dll

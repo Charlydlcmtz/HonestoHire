@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\HonestoHire\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF27D1D-75E9-4091-8B29-6EB3D72F734F}|Infrastructure\\Infrastructure.csproj|c:\\xampp\\htdocs\\honestohire\\infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF27D1D-75E9-4091-8B29-6EB3D72F734F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3503759-28FA-4CA5-BE62-B54E25031B1A}|Domain\\Domain.csproj|c:\\xampp\\htdocs\\honestohire\\domain\\entities\\postulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3503759-28FA-4CA5-BE62-B54E25031B1A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\postulacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF27D1D-75E9-4091-8B29-6EB3D72F734F}|Infrastructure\\Infrastructure.csproj|c:\\xampp\\htdocs\\honestohire\\infrastructure\\identity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF27D1D-75E9-4091-8B29-6EB3D72F734F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\identity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Postulacion.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\HonestoHire\\Domain\\Entities\\Postulacion.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Postulacion.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\HonestoHire\\Domain\\Entities\\Postulacion.cs",
+              "RelativeToolTip": "Domain\\Entities\\Postulacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T05:09:17.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\HonestoHire\\Infrastructure\\Identity\\Usuario.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Identity\\Usuario.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\HonestoHire\\Infrastructure\\Identity\\Usuario.cs",
+              "RelativeToolTip": "Infrastructure\\Identity\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T05:07:56.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\HonestoHire\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\HonestoHire\\Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:53:30.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
